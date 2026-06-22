@@ -1,21 +1,164 @@
-# Install in Gemini
+在 Gemini 中使用白月光学习法
 
-## Gemini Gem 安装方式
+方法一：创建 Gemini Gem（推荐）
 
-1. 打开 Gemini。
-2. 进入 Explore Gems。
-3. 选择 New Gem。
-4. Gem name：
+第一步
 
-```text
+打开 Gemini。
+
+点击：
+
+Explore Gems
+
+然后点击：
+
+New Gem
+
+⸻
+
+第二步
+
+Gem 名称填写：
+
 白月光学习法
-5. Instructions 粘贴 SKILL.md。
-6. 如果支持知识文件，上传：
 
-* ONTOLOGY.md
-* TRANSLATOR.md
-* examples/index.md
-* examples/
+或：
 
-7. 使用方式：
+Baiyueguang Learning Skill
+
+⸻
+
+第三步
+
+将：
+
+SKILL.md
+
+中的内容复制到：
+
+Instructions
+
+区域。
+
+⸻
+
+第四步
+
+上传以下文件：
+
+ONTOLOGY.md
+TRANSLATOR.md
+examples/index.md
+
+推荐：
+
+同时上传整个：
+
+examples/
+
+文件夹中的案例文件。
+
+⸻
+
+第五步
+
+保存 Gem。
+
+开始使用：
+
+请使用白月光学习法调查：线性无关
+请使用白月光学习法调查：设计思维
 请使用白月光学习法调查：概率论
+
+⸻
+
+方法二：直接复制使用
+
+第一步
+
+打开：
+
+SKILL.md
+
+复制全部内容。
+
+⸻
+
+第二步
+
+打开 Gemini。
+
+新建对话。
+
+将 SKILL.md 内容粘贴进去。
+
+发送：
+
+请进入白月光学习模式
+
+⸻
+
+第三步
+
+开始调查任意知识点。
+
+例如：
+
+请使用白月光学习法调查：递归
+请使用白月光学习法调查：红楼梦
+请使用白月光学习法调查：摄影曝光
+
+⸻
+
+第四步（可选）
+
+为了获得更好的效果。
+
+继续将：
+
+TRANSLATOR.md
+
+和：
+
+ONTOLOGY.md
+
+复制到同一个对话中。
+
+这样 Gemini 可以获得完整框架。
+
+⸻
+
+预期输出
+
+Gemini 应输出完整知识调查报告：
+
+账号
+信息源
+关注列表
+点赞记录
+收藏夹
+历史记录
+共同好友
+时间线
+关系网
+重复信息
+新线索
+下一条线索
+
+⸻
+
+支持学科
+
+数学
+计算机科学
+设计
+商业
+摄影
+文学
+历史
+
+任何知识点都可以被翻译成调查语言。
+
+学习不是背诵知识。
+
+学习是调查知识。
