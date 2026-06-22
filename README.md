@@ -194,9 +194,9 @@
 
 ---
 
-## Prompt
+## 快速试用
 
-复制下面内容到 ChatGPT、Claude、Gemini 或其他 AI：
+如果你只是想马上试一下，可以复制下面这段到任意 AI：
 
 你现在进入「白月光学习模式」。
 
@@ -284,8 +284,13 @@
 
 现在开始调查：
 
----
+## 如果想使用完整版本，请阅读：
 
+- SKILL.md
+- ONTOLOGY.md
+- TRANSLATOR.md
+- examples/index.md
+- 
 ## 为什么这个方法可能有效？
 
 因为很多人真正擅长的并不是记忆。
@@ -319,6 +324,15 @@
 学习就已经开始了。
 
 ---
+
+## 文件结构
+
+- README.md —— 项目介绍
+- SKILL.md —— 核心规则
+- ONTOLOGY.md —— 概念映射表
+- TRANSLATOR.md —— 翻译规则
+- INSTALL.md —— 安装说明
+- examples/ —— 学科案例
 
 ## 适用领域
 
