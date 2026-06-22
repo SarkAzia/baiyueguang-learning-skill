@@ -90,7 +90,7 @@ Save
 ```
 
 ```text
-请按照 Scarlett OS 风格讲解这一章。
+请按照 baiyueguang-learning-skill 风格讲解这一章。
 ```
 
 ---
