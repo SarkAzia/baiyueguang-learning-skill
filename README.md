@@ -1,4 +1,4 @@
-<img width="1047" height="874" alt="image" src="https://github.com/user-attachments/assets/8853972e-5067-4aa8-825a-510dbb2e7c0e" /># 如果你能视奸前任白月光，你就有能力学会任何学科
+## 如果你能视奸前任白月光，你就有能力学会任何学科
 
 如果你能连续三小时研究：
 
