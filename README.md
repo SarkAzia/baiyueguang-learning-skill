@@ -22,6 +22,17 @@
 
 问题是你还没有开始追踪知识。
 
+## 🚀 Installation
+
+| Platform | Guide |
+|-----------|-----------|
+| ChatGPT | [ChatGPT Installation](install/chatgpt.md) |
+| Gemini | [Gemini Installation](install/gemini.md) |
+| Claude | [Claude Installation](install/claude.md) |
+
+---
+
+
 ## 这是什么？
 
 白月光学习法（White Moonlight Learning）是一种学习框架。
