@@ -1,51 +1,103 @@
-在 ChatGPT 中使用白月光学习法
+# ChatGPT 安装指南
 
-方法一：创建自定义 GPT（推荐）
+在 ChatGPT 中使用 **白月光学习法（Baiyueguang Learning Skill）**
 
-1. 打开 ChatGPT。
-2. 点击：
+---
 
-探索 GPT（Explore GPTs）
+## 方法一：创建自定义 GPT（推荐）
 
-3. 点击：
+### 第一步：打开 GPT Builder
 
-创建（Create）
+进入 ChatGPT：
 
-4. 将：
+> Explore GPTs → Create
 
+---
+
+### 第二步：创建 GPT
+
+新建一个 GPT，例如：
+
+- 白月光学习法
+- Baiyueguang Learning Skill
+
+---
+
+### 第三步：导入核心 Prompt
+
+打开仓库中的：
+
+```text
 SKILL.md
+```
 
-中的内容复制到 Instructions。
+复制全部内容。
 
-5. 上传：
+粘贴到 GPT 的：
 
+```text
+Instructions
+```
+
+区域。
+
+---
+
+### 第四步：上传知识库
+
+将以下文件上传到 Knowledge：
+
+```text
 ONTOLOGY.md
 TRANSLATOR.md
 examples/
+```
 
-中的文件作为知识库。
+推荐全部上传。
 
-6. 保存 GPT。
-7. 开始使用：
+作用：
 
-请使用白月光学习法调查：概率论
+| 文件 | 作用 |
+|--------|--------|
+| ONTOLOGY.md | 核心概念体系 |
+| TRANSLATOR.md | 术语翻译规则 |
+| examples/ | 学习案例与示例 |
 
-⸻
+---
 
-方法二：直接复制使用
+### 第五步：保存 GPT
 
-1. 打开：
+点击：
 
-SKILL.md
+```text
+Save
+```
 
-2. 复制全部内容。
-3. 粘贴到 ChatGPT 对话中。
-4. 发送：
+完成创建。
 
-请进入白月光学习模式
+---
 
-5. 开始调查任意知识点。
+## 开始使用
 
-例如：
+示例：
 
-请使用白月光学习法调查：递归
+```text
+请用白月光学习法解释线性无关。
+```
+
+```text
+请把矩阵翻译成信息关系网语言。
+```
+
+```text
+请按照 Scarlett OS 风格讲解这一章。
+```
+
+---
+
+## 推荐模型
+
+效果最佳：
+
+- GPT-5
+- GPT-5 Thinking
