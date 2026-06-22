@@ -1,5 +1,23 @@
 ## 如果你能视奸前任白月光，你就有能力学会任何学科
 
+<p align="center">
+
+<a href="./install/chatgpt.md">
+<img src="https://img.shields.io/badge/🤖_ChatGPT-Install-success?style=flat">
+</a>
+
+<a href="./install/gemini.md">
+<img src="https://img.shields.io/badge/✨_Gemini-Install-blue?style=flat">
+</a>
+
+<a href="./install/claude.md">
+<img src="https://img.shields.io/badge/🧠_Claude-Install-orange?style=flat">
+</a>
+
+</p>
+
+---
+
 如果你能连续三小时研究：
 
 - 前任的新对象是谁
@@ -21,17 +39,6 @@
 问题不是智商。
 
 问题是你还没有开始追踪知识。
-
-## 🚀 Installation
-
-| Platform | Guide |
-|-----------|-----------|
-| ChatGPT | [ChatGPT Installation](install/chatgpt.md) |
-| Gemini | [Gemini Installation](install/gemini.md) |
-| Claude | [Claude Installation](install/claude.md) |
-
----
-
 
 ## 这是什么？
 
