@@ -1,13 +1,12 @@
-Install in Claude
+# Claude 安装说明
 
-Claude Skills 安装方式
+Claude 支持将一个包含 `SKILL.md` 的文件夹打包成 `.zip` 后上传为 Skill。
 
-Claude 支持将一个包含 SKILL.md 的文件夹打包成 .zip 后上传为 Skill。
+## 准备 Skill 文件夹
 
-准备 Skill 文件夹
+请准备如下目录结构：
 
-请准备以下结构：
-
+```text
 baiyueguang-learning/
 ├── SKILL.md
 ├── ONTOLOGY.md
@@ -23,65 +22,63 @@ baiyueguang-learning/
     ├── 摄影曝光.md
     ├── 红楼梦.md
     └── 法国大革命.md
+```
 
-打包
+## 打包
 
-将整个 baiyueguang-learning/ 文件夹压缩为：
+将整个 `baiyueguang-learning/` 文件夹压缩为：
 
+```text
 baiyueguang-learning.zip
+```
 
-注意：
+## 注意
 
-压缩包内部必须包含文件夹本身，而不是直接把所有文件散在 zip 根目录。
+压缩包内部必须包含文件夹本身，而不是直接把所有文件放在 ZIP 根目录。
 
 正确结构：
 
+```text
 baiyueguang-learning.zip
 └── baiyueguang-learning/
     ├── SKILL.md
     ├── ONTOLOGY.md
     ├── TRANSLATOR.md
     └── examples/
+```
 
-上传到 Claude
+错误结构：
+
+```text
+baiyueguang-learning.zip
+├── SKILL.md
+├── ONTOLOGY.md
+├── TRANSLATOR.md
+└── examples/
+```
+
+## 上传到 Claude
 
 1. 打开 Claude。
-2. 进入 Settings。
-3. 找到 Features / Capabilities。
-4. 打开 Skills。
-5. 选择 Upload Skill。
-6. 上传 baiyueguang-learning.zip。
-7. 启用该 Skill。
+2. 进入 **Settings**。
+3. 找到 **Features / Capabilities**。
+4. 打开 **Skills**。
+5. 点击 **Create Skill**。
+6. 上传 `baiyueguang-learning.zip`。
+7. 等待 Claude 完成导入。
 
-使用方式
+## 使用
 
-在 Claude 中输入：
+安装完成后，可以直接在对话中调用：
 
-请使用白月光学习法调查：设计思维
+```text
+使用白月光学习法解释线性无关。
+```
 
-或：
+```text
+用白月光学习法讲解导数。
+```
 
-请用 Baiyueguang Learning Skill 分析：概率论
-
-Claude 应该输出：
-
-* 账号
-* 信息源
-* 关注列表
-* 点赞记录
-* 收藏夹
-* 历史记录
-* 共同好友
-* 时间线
-* 关系网
-* 重复信息
-* 新线索
-* 下一条线索
-
-Skill 名称建议
-
-白月光学习法
-
-或：
-
-Baiyueguang Learning Skill
+```text
+按照白月光学习法分析概率问题。
+```
